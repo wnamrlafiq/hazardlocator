@@ -42,11 +42,11 @@
 
              Once you have your API key (it starts with "AIza"), define a new property in your
              project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
-             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".//AIzaSyAAmddRye_qOKm1Eeb19mMFMf_sMQBKppI
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD-1WoB8JjsTFeVlriIE08toTr-Qm7jrgk" />
+            android:value="MAPS_API_KEY" />
 
         <activity
             android:name=".MapsActivity"
