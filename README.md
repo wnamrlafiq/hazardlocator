@@ -21,3 +21,7 @@ EN MUHAMMAD HAFIZ BIN ISMAIL
 
 
 *codes in main>java/com/ict650/hazardlocator
+
+
+
+Youtube Video: https://youtu.be/1zTZp04NHEk
